@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Data
+*.json
