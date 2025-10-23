@@ -6,7 +6,7 @@ This is the classic "National Park Tour" or "snowplow" problem: how do you drive
 
 ---
 
-## The Problem: Why Weights Matter
+## The Problem: Chinese Postman Requirements
 
 The key to this problem is understanding **Eulerian paths**, which are paths that visit every *edge* exactly once.
 
